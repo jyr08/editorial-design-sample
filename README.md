@@ -1,5 +1,10 @@
-# DESN 368 Web Design 1 Starter Template
+# Coffee Editorial Design
+> Jimena loves coffee.
 
-> **NOTE:** This is a work in progress.
+Stuff about coffee.
+<!-- Write a paragraph about coffee -->
 
-DIY Template, starter, boilerplate, prototype, etc. for future Web Design projects. 
+paragraph about coffee here
+
+## Citations
+
